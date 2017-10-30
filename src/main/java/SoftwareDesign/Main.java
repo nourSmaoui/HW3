@@ -1,4 +1,3 @@
-package SoftwareDesign;
 import org.apache.commons.cli.*;
 
 import java.util.Arrays;
